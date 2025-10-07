@@ -1,0 +1,5 @@
+telethon
+pytgcalls==3.0.0.dev21
+yt-dlp
+ffmpeg-python
+asyncio
